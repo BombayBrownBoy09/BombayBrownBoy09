@@ -1,6 +1,6 @@
 ### Hey 👋 my name is Bhargav!
 
-I'm a Sr. Data Scientist working on Machine Learning and Demand Forecasting
+I'm a Sr. Data Scientist working on Machine Learning and Demand Forecasting. I completed my Master of Engineering in Artificial Intelligence from Duke University 🟦😈
 
 ### Skills
 OOP / Applied Statistics / Machine Learning / Behavioral Economics
