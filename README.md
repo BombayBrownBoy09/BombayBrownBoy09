@@ -1,4 +1,4 @@
-### Hey 👋, my name is Bhargav!
+### Hey 👋 my name is Bhargav!
 
 I'm a Sr. Data Scientist working on Machine Learning and Demand Forecasting
 
