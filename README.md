@@ -7,4 +7,4 @@ OOP / Applied Statistics / Machine Learning / Behavioral Economics
 
 ### What I'm involved in...
 
-- Natural Language Processing and Behavioral research projects at 🌍🏦 The World Bank and the Dan Ariely's 👥 Center for Advanced Hindsight
+- Natural Language Processing and Behavioral research projects at 🌍🏦 [The World Bank](http://users.nber.org/~dlchen/papers/SouthAsiaRegion_60min.pdf) and the Dan Ariely's 👥 [Center for Advanced Hindsight](https://advanced-hindsight.com/government-research/)
