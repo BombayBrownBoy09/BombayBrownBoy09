@@ -1,6 +1,6 @@
 ### Hey 👋 my name is Bhargav!
 
-I'm a Sr. Data Scientist at Target working on Machine Learning for Demand Forecasting. I completed my Master of Engineering in Artificial Intelligence from Duke University 🟦😈
+I'm a Sr. Data Scientist at Target working on Machine Learning for Demand Forecasting. I completed my Master of Engineering in Artificial Intelligence from Duke University 🟦😈 and undergraduate Engineering from VIT Vellore.
 
 ### Skills
 OOP / Applied Statistics / Machine Learning / Behavioral Economics / Experimental Design
