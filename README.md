@@ -1,6 +1,6 @@
 ### Hey there! 👨‍🎨
 
-I'm a Sr. Data Scientist at Target working on Machine Learning for Demand Forecasting. I completed my Master of Engineering in Artificial Intelligence from Duke University 🟦😈 and undergraduate Engineering from VIT Vellore.
+I'm a Sr. Data Scientist at Target working on explainable large-scale demand forecasting. I completed my Master of Engineering in Artificial Intelligence from Duke University 🟦😈 and undergraduate Engineering from VIT Vellore.
 
 ### Skills
 OOP / Applied Statistics / Machine Learning / Behavioral Economics / Experimental Design
